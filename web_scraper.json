@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Security Guard Patrol Officer",
+        "company": "Defcorp (Pvt) Ltd",
+        "location": "Harare",
+        "expiry_date": "April 23, 2025",
+        "description": "Responsible for patrolling assigned sites using a motorbike, overseeing guard deployments, managing shift schedules, and ensuring that all guards are present."
+    },
+    {
+        "title": "Research Assistant",
+        "company": "CeSHHAR Zimbabwe",
+        "location": "Harare/Mt Darwin",
+        "expiry_date": "April 21, 2025",
+        "description": "Involves population health research and programming, including on sexual and reproductive health and HIV/AIDS."
+    },
+    {
+        "title": "Projects Sales Manager",
+        "company": "Saint-Gobain Gyproc Zimbabwe",
+        "location": "Harare",
+        "expiry_date": "April 25, 2025",
+        "description": "Drive project sales by developing and managing systems and processes for project pipeline sales growth, customer relationship management, and technical point of sale material development."
+    },
+    {
+        "title": "Cash Transfer Services",
+        "company": "Development Aid from People to People Zimbabwe (DAPP)",
+        "location": "Harare",
+        "expiry_date": "April 25, 2025",
+        "description": "Seeking experienced cash transfer service providers for a four-month project in Epworth District, Harare, involving mobile cash transfers for 1,585 beneficiaries."
+    },
+    {
+        "title": "Project Administration Assistant",
+        "company": "Biomedical Research and Training Institute (BRTI)",
+        "location": "Manicaland",
+        "expiry_date": "May 12, 2025",
+        "description": "Support scientific population-based research on the incidence and control of HIV and other communicable and non-communicable diseases in east Zimbabwe."
+    },
+    {
+        "title": "Registered General Nurse",
+        "company": "AIDS Healthcare Foundation",
+        "location": "Beitbridge",
+        "expiry_date": "April 25, 2025",
+        "description": "Provide HIV management in health facilities, partnering with the Ministry of Health and Child Care and local authorities to create Centers of Excellence."
+    },
+    {
+        "title": "Digital Marketing Attachee",
+        "company": "Golden Knot Group",
+        "location": "Harare",
+        "expiry_date": "April 16, 2025",
+        "description": "Support the existing team in digital marketing, content creation, and social media management."
+    },
+    {
+        "title": "Boiler Maker",
+        "company": "Green Fuel",
+        "location": "Chipinge",
+        "expiry_date": "March 24, 2025",
+        "description": "Responsible for boiler making tasks within the Land Development Department, reporting to the Projects Manager."
+    },
+    {
+        "title": "Artisan-Carpenter",
+        "company": "Green Fuel",
+        "location": "Chipinge",
+        "expiry_date": "March 24, 2025",
+        "description": "Responsible for building foundations, joining wood materials, and fitting and installing trim items for industrial and residential structures."
+    },
+    {
+        "title": "Welder",
+        "company": "Green Fuel",
+        "location": "Chipinge",
+        "expiry_date": "March 24, 2025",
+        "description": "Perform welding tasks within the Land Development Department, reporting to the Projects Manager."
+    }
+]
