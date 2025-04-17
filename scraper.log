@@ -1,6 +1,6 @@
-2025-04-17 11:33:07,207 - INFO - \U0001f680 Job scraper started.
-2025-04-17 11:33:07,208 - INFO - \U0001f4c4 Simulated scrape for page 1
-2025-04-17 11:33:08,208 - INFO - \U0001f4c4 Simulated scrape for page 2
-2025-04-17 11:33:09,292 - INFO - \u2705 Saved to CSV: scrape_data.csv
-2025-04-17 11:33:09,654 - INFO - \u2705 Saved to Excel: scrape_data.xlsx
-2025-04-17 11:33:09,655 - INFO - \U0001f3c1 Scraped 10 jobs and finished.
+2025-04-17 12:34:12,362 - INFO - \U0001f680 Job scraper started.
+2025-04-17 12:34:12,362 - INFO - \U0001f4c4 Simulated scrape for page 1
+2025-04-17 12:34:13,363 - INFO - \U0001f4c4 Simulated scrape for page 2
+2025-04-17 12:34:14,380 - INFO - \u2705 Saved to CSV: scrape_data.csv
+2025-04-17 12:34:14,751 - INFO - \u2705 Saved to Excel: scrape_data.xlsx
+2025-04-17 12:34:14,752 - INFO - \U0001f3c1 Scraped 10 jobs and finished.
